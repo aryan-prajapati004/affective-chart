@@ -1,0 +1,6 @@
+{
+  "prompt": "A long ancient stone cathedral corridor, a row of candles on iron brackets along the left wall, the first candle burning with a dramatically tall vivid flame casting orange light on the stone, the second candle with a noticeably shorter flame, each subsequent candle with a progressively and dramatically smaller flame, the last three candles barely alive with the faintest whisper of a flame, nearly extinguished, the far end of the corridor completely consumed by darkness with no light source visible, the difference in flame size between first and last candle is extreme and unmistakable, cold grey gothic stone, chiaroscuro, photorealistic, large format film. Negative: text, labels, diagrams, arrows, graphs, equations, glowing digital effects, neon, UI overlays, neurons, circuits, gears, people, floating objects, artificial studio lighting, windows, light at far end",
+  "model": "Ideogram 2",
+  "concept": "vanishing gradients",
+  "metaphor": "Cathedral candles: nearest burns tall and vivid, each successive candle dramatically smaller, farthest nearly extinguished — gradient magnitude decaying layer by layer as signal propagates back through a deep network."
+}
