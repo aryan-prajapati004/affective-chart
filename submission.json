@@ -1,0 +1,7 @@
+{
+  "prompt": "Underwater photograph looking upward through shallow tropical water. A single massive brain coral dominates the frame. The bottom-left corner holds the last surviving patch — electric purple, teal, orange, dense with fish and anemones clustered tightly as if retreating. The rest of the coral is bone-white, skeletal, physically crumbling at its edges — small fragments drifting downward like ash. The water directly above the bleached zone shimmers with subtle thermal distortion, like heat haze, slightly warping the light rays coming through the surface above it. The boundary between living and dead is not sharp — it transitions through a ghostly intermediate zone of pale, colorless coral still structurally intact but already emptied of pigment. The dead zone feels heavy, oppressive. No fish anywhere near it. The light above it is harsher, more white than blue. Photorealistic, National Geographic documentary quality, medium format, f/2.8. Negative prompt: infographic, chart, labels, text, globe, thermometer, iceberg, symmetric split, equal halves, clean white coral, pristine bleaching.",
+  "model": "Ideogram 2",
+  "dataset_name": "NOAA Coral Reef Watch — 2024 Global Bleaching Alert",
+  "dataset_url": "https://coralreefwatch.noaa.gov/satellite/bleaching5km/index.php",
+  "insight": "Over 60% of the world's reefs experienced bleaching-level heat stress in 2023–2024, the largest coral bleaching event ever recorded."
+}
