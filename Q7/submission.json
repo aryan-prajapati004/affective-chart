@@ -1,0 +1,9 @@
+{
+  "prompt": "Soviet Constructivist propaganda poster, El Lissitzky style, 1924 lithograph. Three bold black vertical rectangular columns strictly parallel and sequential, labeled L1 L2 L3, cream ground. Large red filled circle far right — loss function. Five bold red diagonal arrows pointing left, each arrow progressively thinner, backpropagation gradient signal. Correct Cyrillic all-caps sans-serif block text РАСПРОСТРАНЕНИЕ ОШИБКИ aligned along 45-degree diagonal axis. Flat unmodulated fills. Mechanical ruled geometry. Strict black red cream palette only. No date stamps. No signatures. No annotations outside main composition. Negative: gradients, shadows, shading, serif, organic lines, texture, photography, realism, decorative, aging, distress, handwriting, cursive, illegible text, pseudo-text, garbled letters, watermark, stamp, date text, any color other than black red cream white",
+  "model": "Ideogram 2",
+  "concept": "Backpropagation in neural networks",
+  "tradition_name": "Soviet Constructivism",
+  "tradition_period": "1920s–1930s",
+  "tradition_approach": "Flat red/black/cream palette, mechanical ruled geometry, 45-degree diagonal composition axis referencing Lissitzky, all-caps sans-serif Cyrillic typography integrated as geometric shape, zero shading or gradients, high-contrast silhouette figure-ground.",
+  "publish_email": true
+}
